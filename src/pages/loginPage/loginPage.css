@@ -1,3 +1,15 @@
 .login_heading{
     color: red;
 }
+
+.login_form{
+    height: 200px;
+    width: 30%;
+    background-color: antiquewhite;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #a09d91;
+    margin-top: 100px;
+}
